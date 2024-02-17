@@ -23,7 +23,7 @@ body{
     height: 130px;
 }
 
-.navbar-color {
+.navbar-color {  /*Clase que cambia color al navbar*/
     background-color: rgb(0, 57, 65);
     transition: all 1s ease;
 }    
