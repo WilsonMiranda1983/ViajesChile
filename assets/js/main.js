@@ -31,7 +31,7 @@ $(window).scroll(function () {  //funcion para cambiar color de navbar//
 
 
 $("#btn_correo").click(function () { // Funcion que muestra mensaje confirmando envio de mensaje//
-    alert("El correo fue enviado correctamente...");
+    alert("El correo fue enviado satisfactoriamente...");
 });
 
 
