@@ -1,0 +1,29 @@
+main{
+    background-color: #000;
+}
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+.carousel-inner img{
+    height:700px;
+    object-fit: fill;
+}
+
+.icono img{
+    width: 2rem;
+}
+
+.hr {
+    height: 3px;
+    background-color: rgb(8, 216, 243);
+}   
+
+.card img{
+    height: 130px;
+}
+
+.navbar-color {
+    background-color: rgb(0, 57, 65);
+    transition: all 1s ease;
+}    
